@@ -115,13 +115,6 @@ Gelişmiş ağ tanı ve yük testi için tasarlanmış profesyonel araç. Çoklu
 
 **Teknolojiler:** Python, Asyncio, Scapy, DNS, Socket Programming, Matplotlib
 
-**Kullanım:**
-```bash
-python black_pulse.py
-# veya
-python black_pulse.py --config config.yaml --target 192.168.1.1 --port 80 --mode TCP_FLOOD
-```
-
 ---
 
 ### 🛡️ Moon Knight - Advanced Surveillance & Reconnaissance Tool
