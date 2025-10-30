@@ -117,23 +117,6 @@ Gelişmiş ağ tanı ve yük testi için tasarlanmış profesyonel araç. Çoklu
 
 ---
 
-### 🛡️ Moon Knight - Advanced Surveillance & Reconnaissance Tool
-**Gelişmiş İzleme ve Keşif Aracı**
-
-Sistem izleme, kamera kaydı, ses kaydı ve dosya yönetimi özellikleri içeren kapsamlı keşif aracı.
-
-**Özellikler:**
-- 📹 **Kamera Kaydı**: Sistem kamerasından video kaydı
-- 🎙️ **Ses Kaydı**: Sistem sesinden ses kaydı
-- 📸 **Ekran Görüntüsü**: Otomatik ekran görüntüsü alma
-- 📁 **Dosya Yönetimi**: Dosya indirme ve yükleme
-- 🔄 **Client-Server Mimarisi**: Uzaktan kontrol
-- 💾 **Veri Depolama**: Organize edilmiş veri saklama
-
-**Teknolojiler:** Python, Socket Programming, OpenCV, PyAudio
-
----
-
 ### 🌐 Phantom Socket - Network Communication Framework
 **Gelişmiş Ağ İletişim Çerçevesi**
 
