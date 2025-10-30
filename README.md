@@ -207,7 +207,7 @@ Düşük seviye ağ programlama ve socket yönetimi için tasarlanmış framewor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedcengiz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammedcengiz)
 
-**Email:** muhammedcengiz598@gmail.com  
+**Email:** cengizmuhammed598@gmail.com 
 **GitHub:** [@Muhammedcengizz598](https://github.com/Muhammedcengizz598)  
 **Konum:** Türkiye 🇹🇷
 
