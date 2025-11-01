@@ -19,23 +19,21 @@ Günlük olarak **ortalama 4 saat** yazılım geliştirme ve yeni teknoloji öğ
 
 ## 💼 Uzmanlık Alanları
 
-### 🔐 Siber Güvenlik & Etik Hacking
-- **Ağ Güvenliği Testleri**: TCP/UDP flood, HTTP/HTTPS stress testing
-- **Cybersecurity Araçları Geliştirme**: Kendi güvenlik araçlarımı geliştirip GitHub'a yüklüyorum
-- **Penetrasyon Testi**: Sistem ve ağ zafiyetlerini tespit etme
-- **Ağ Analizi**: Paket analizi ve protokol incelemesi
+### 💻 Web Geliştirme
+- **Backend Geliştirme**: Django, Python ile güçlü ve ölçeklenebilir backend sistemleri
+- **Frontend Geliştirme**: HTML, CSS ile modern ve responsive web arayüzleri
+- **Veritabanı Tasarımı**: MySQL, SQL ile verimli veri yönetimi
+- **Full-Stack Projeler**: Baştan sona web uygulamaları geliştirme
 
-### 💻 Yazılım Geliştirme
-- **Backend Geliştirme**: Django, Python
-- **Veritabanı Yönetimi**: MySQL, SQL
-- **Frontend Geliştirme**: HTML, CSS
-- **Masaüstü Uygulamaları**: C#, Maui
+### 📱 Uygulama Geliştirme
+- **Masaüstü Uygulamaları**: C#, .NET, Maui ile profesyonel uygulamalar
+- **Sistem Programlama**: Python, C# ile sistem seviyesi yazılımlar
+- **Veri İşleme**: Büyük veri setleriyle çalışma ve analiz
 
-### 🛠️ Araçlar & Teknolojiler
-- **Sistem Programlama**: Python, C#
-- **Web Teknolojileri**: Django, HTML, CSS
-- **Veri Tabanları**: MySQL, SQL
-- **Siber Güvenlik Araçları**: Scapy, Socket Programming, DNS/ICMP Testing
+### 🔐 Siber Güvenlik
+- **Ağ Güvenliği**: Temel güvenlik prensipleri ve ağ analizi
+- **Güvenli Kodlama**: Yazılım geliştirmede güvenlik en iyi uygulamaları
+- **Sistem Güvenliği**: Uygulama ve sistem seviyesinde güvenlik
 
 ---
 
@@ -96,39 +94,53 @@ Günlük olarak **ortalama 4 saat** yazılım geliştirme ve yeni teknoloji öğ
 
 ## 🎯 Öne Çıkan Projeler
 
-### 🔴 BlackPulse v3.0 - Advanced Network Testing Suite
-**Profesyonel Ağ Performans Test Aracı**
+### 🌐 DomainScout - Domain Analiz & Raporlama Platformu
+**Profesyonel Web Tabanlı Domain Analiz Aracı**
 
-Gelişmiş ağ tanı ve yük testi için tasarlanmış profesyonel araç. Çoklu protokol desteği, gerçek zamanlı analitik ve detaylı raporlama özellikleri içerir.
+Domain bilgilerini analiz eden, detaylı raporlar üreten ve verileri çeşitli formatlarda dışa aktaran kapsamlı web uygulaması.
 
 **Özellikler:**
-- 🔗 **TCP Flood Testing**: Yüksek performanslı TCP bağlantı testleri
-- 🌐 **HTTP/HTTPS Flood**: Web protokol stress testleri
-- 📡 **UDP Flood**: UDP paket bombardımanı testleri
-- 🔄 **WebSocket Testing**: WebSocket protokol testleri
-- 🌍 **DNS Flood**: DNS çözümleme stres testleri
-- 📶 **ICMP Ping**: ICMP ping flood testleri
-- 📊 **Gerçek Zamanlı Monitoring**: Canlı performans metrikleri
-- 📈 **Detaylı Raporlama**: JSON, CSV, Grafik raporları
-- 🎨 **Gelişmiş UI**: Renkli ve profesyonel konsol arayüzü
-- ⚙️ **Sistem Optimizasyonu**: Otomatik sistem ayarlamaları
+- 🔍 **Domain Analizi**: Kapsamlı domain bilgisi ve DNS kayıtları
+- 📊 **Veri Görselleştirme**: Grafik ve chart'larla analiz sonuçları
+- 📁 **Çoklu Format Dışa Aktarma**: JSON, CSV, PDF, HTML raporları
+- 💾 **Veri Yönetimi**: Analiz geçmişi ve cache sistemi
+- 🎨 **Modern UI**: Responsive ve kullanıcı dostu arayüz
+- ⚡ **Performans**: Hızlı işleme ve gerçek zamanlı sonuçlar
 
-**Teknolojiler:** Python, Asyncio, Scapy, DNS, Socket Programming, Matplotlib
+**Teknolojiler:** Python, Django, MySQL, HTML, CSS, Matplotlib, Pandas
 
 ---
 
-### 🌐 Phantom Socket - Network Communication Framework
-**Gelişmiş Ağ İletişim Çerçevesi**
+### 📱 Moon Knight - Masaüstü Yönetim Uygulaması
+**Profesyonel C# Masaüstü Uygulaması**
 
-Düşük seviye ağ programlama ve socket yönetimi için tasarlanmış framework.
+Windows masaüstü ortamında çalışan, gelişmiş özelliklere sahip profesyonel yönetim uygulaması.
 
 **Özellikler:**
-- 🔌 **Raw Socket Support**: Ham socket programlama
-- 🔐 **Şifreli İletişim**: Güvenli veri transferi
-- 📦 **Paket Yönetimi**: Özel paket protokolleri
-- 🔄 **Asenkron İşleme**: Non-blocking I/O
+- 🖥️ **Masaüstü Entegrasyonu**: Windows sistem entegrasyonu
+- 📸 **Medya Yönetimi**: Dosya ve medya işlemleri
+- 🔐 **Güvenli İşlemler**: Veri güvenliği ve şifreleme
+- 🎯 **Kullanıcı Dostu**: Modern ve sezgisel arayüz
+- ⚙️ **Sistem Optimizasyonu**: Verimli kaynak kullanımı
+- 🔄 **Asenkron İşleme**: Responsive uygulama deneyimi
 
-**Teknolojiler:** Python, Socket Programming, Cryptography
+**Teknolojiler:** C#, .NET, Maui, Windows Forms
+
+---
+
+### 🛠️ Phantom Socket - Ağ İletişim Framework
+**Gelişmiş Ağ Programlama Kütüphanesi**
+
+Web ve masaüstü uygulamalarında kullanılabilen, güvenli ve performanslı ağ iletişim framework'ü.
+
+**Özellikler:**
+- 🔌 **Socket Yönetimi**: Düşük seviye ağ programlama
+- 🔐 **Şifreli İletişim**: Güvenli veri transferi
+- 📦 **Protokol Desteği**: Özel protokol implementasyonu
+- 🔄 **Asenkron Mimarisi**: Non-blocking I/O işlemleri
+- ⚡ **Yüksek Performans**: Optimize edilmiş veri transferi
+
+**Teknolojiler:** Python, C#, Socket Programming, Cryptography
 
 ---
 
