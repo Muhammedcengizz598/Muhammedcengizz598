@@ -102,7 +102,7 @@ Domain bilgilerini analiz eden, detaylı raporlar üreten ve verileri çeşitli 
 **Özellikler:**
 - 🔍 **Domain Analizi**: Kapsamlı domain bilgisi ve DNS kayıtları
 - 📊 **Veri Görselleştirme**: Grafik ve chart'larla analiz sonuçları
-- 📁 **Çoklu Format Dışa Aktarma**: JSON, CSV, PDF, HTML raporları
+- ���� **Çoklu Format Dışa Aktarma**: JSON, CSV, PDF, HTML raporları
 - 💾 **Veri Yönetimi**: Analiz geçmişi ve cache sistemi
 - 🎨 **Modern UI**: Responsive ve kullanıcı dostu arayüz
 - ⚡ **Performans**: Hızlı işleme ve gerçek zamanlı sonuçlar
@@ -111,20 +111,41 @@ Domain bilgilerini analiz eden, detaylı raporlar üreten ve verileri çeşitli 
 
 ---
 
-### 📱 Moon Knight - Masaüstü Yönetim Uygulaması
-**Profesyonel C# Masaüstü Uygulaması**
+### 🔴 BlackPulse v3.0 - Advanced Network Testing Suite
+**Profesyonel Ağ Performans ve Güvenlik Test Aracı**
 
-Windows masaüstü ortamında çalışan, gelişmiş özelliklere sahip profesyonel yönetim uygulaması.
+Ağ performansı ve güvenlik testleri için geliştirilmiş profesyonel düzeyde araç. Çoklu protokol desteği, gerçek zamanlı analitik ve kapsamlı raporlama özellikleri ile ağ altyapınızın performansını test etmenizi sağlar.
 
 **Özellikler:**
-- 🖥️ **Masaüstü Entegrasyonu**: Windows sistem entegrasyonu
-- 📸 **Medya Yönetimi**: Dosya ve medya işlemleri
-- 🔐 **Güvenli İşlemler**: Veri güvenliği ve şifreleme
-- 🎯 **Kullanıcı Dostu**: Modern ve sezgisel arayüz
-- ⚙️ **Sistem Optimizasyonu**: Verimli kaynak kullanımı
-- 🔄 **Asenkron İşleme**: Responsive uygulama deneyimi
 
-**Teknolojiler:** C#, .NET, Maui, Windows Forms
+🌐 **Çoklu Protokol Desteği**
+- 🔗 **TCP Flood Testi**: Yüksek performanslı TCP bağlantı testi
+- 🌐 **HTTP/HTTPS Flood**: Web sunucusu performans testi
+- 📡 **UDP Flood**: UDP paket bombardımanı testi
+- 🔄 **WebSocket Testi**: WebSocket protokol testi
+- 🌍 **DNS Flood**: DNS çözümleme stres testi
+- 📶 **ICMP Ping Testi**: ICMP ping flood testi
+
+📊 **Gelişmiş Analitik**
+- Gerçek zamanlı performans izleme
+- Detaylı gecikme analizi ve yüzdelik programlamaları
+- Bağlantı başarısı/başarısızlık oranları
+- Sistem kaynak kullanım takibi
+- Bandwidth ve RPS (Request Per Second) metrikleri
+
+🎨 **Profesyonel Arayüz**
+- Renkli ve kullanıcı dostu terminal arayüzü
+- İnteraktif menü sistemi
+- Gerçek zamanlı ilerleme çubuğu
+- Detaylı hata raporlaması
+
+📈 **Kapsamlı Raporlama**
+- JSON detaylı raporlar
+- CSV veri aktarımı
+- Grafik görselleri (matplotlib ile)
+- Konsola dayalı özet raporlar
+
+**Teknolojiler:** Python, Asyncio, Scapy, DNS, Socket Programming, Matplotlib
 
 ---
 
